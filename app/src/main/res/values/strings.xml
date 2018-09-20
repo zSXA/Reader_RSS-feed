@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reader RSS-feed</string>
+    <string name="item1">checked</string>
+    <string name="CHANGE">Изменить</string>
+</resources>
